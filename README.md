@@ -10,6 +10,6 @@ UI placed in [Figma UI](https://www.figma.com/file/hDcipE9zMuiDsYAkjcQuKw/Space?
  
  Deployed by vercel.
  
- To see the sample --> [Go]()
+ To see the sample --> [Go](https://idesignyoubuild.vercel.app/)
 
 
